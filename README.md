@@ -1,7 +1,7 @@
-# LAB-5
+# LAB-6
 
 ## Instructions
- - Lab 5 is graded and submission is compulsory.
+ - Lab 6 is graded and submission is compulsory.
  - Code has to be done in MATLAB.
  - Clone this repository in your local machine.
  - <strong> Commit after the deadline will not be considered </strong>.
@@ -28,4 +28,4 @@
 - If these guidelines aren't met, you will receive penalties or those codes might not be evaluated.
 - Create two folders named codes and results and upload your codes and results in the respective folders in the same format as mentioned earlier. 
 
- ## Deadline : 29/06/2021 by 11:59 PM
+ ## Deadline : 6/07/2021 by 11:59 PM
